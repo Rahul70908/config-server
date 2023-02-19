@@ -8,5 +8,5 @@ eureka:
     hostname: localhost
 
 spring:
-    application:
-      name: df
+  application:
+    name: CONFI
